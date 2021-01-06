@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9juz0qgD4KyTd/6PajBk8h99aDwMiguVFRWXesNqMLZVktg8GjsDt1fHuMBt1IHh6qpMKpfPKjvh477Fsooeig==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\MDC\\teste-mdc\\src\\Meu projeto no git\\teste-mdc\\Calculadora\\Calculadora.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lai_k\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Lai_k\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
